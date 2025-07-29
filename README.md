@@ -27,22 +27,22 @@ https://www.kaggle.com/에서 [Sign Up]을 통해 가입
 
 ## 6. 초보자가 Kaggle에서 가장 쉽게 시작할 수 있는 대표적인 프로젝트
 
-# Titanic — Machine Learning from Disaster
+### Titanic — Machine Learning from Disaster
 타이타닉호 승객의 생존 여부를 예측하는 분류 문제로, Kaggle 공식 입문용 경진대회
 
 특징: 데이터 크기가 작고 구조가 단순하여 파이썬, 판다스, 머신러닝 기초를 연습하기 매우 좋음
 
-# House Prices — Advanced Regression Techniques
+### House Prices — Advanced Regression Techniques
 집의 여러 특성을 이용해 주택 가격을 예측
 
 특징: 초보자가 데이터 전처리, 결측치 처리, 기본적인 회귀 분석(선형, 랜덤포레스트 등) 실습에 적합
 
-# Digit Recognizer (MNIST)
+### Digit Recognizer (MNIST)
 손글씨 숫자(0~9) 이미지를 보고 해당 숫자를 맞추는 이미지 분류 문제
 
 특징: 딥러닝(딥러닝 없이도 가능)을 입문하거나 이미지 데이터를 처음 다뤄보고 싶을 때 적합
 
-# Spaceship Titanic (Playground Series)
+### Spaceship Titanic (Playground Series)
 타이타닉 대회와 비슷하지만, 우주선 배경의 흥미로운 분류 문제
 
 특징: ‘Getting Started’나 ‘Playground’로 분류되어 있으며, 데이터가 아예 공개돼 있어 부담 없이 연습할 수 있음
